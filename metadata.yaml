@@ -1,0 +1,39 @@
+_repo: Gli-amori_39289
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39289-h/images/cover.jpg
+creator:
+  author:
+    agent_name: De Roberto, Federico
+    aliases:
+    - Roberto, Federico de
+    - De Roberto, Federigo
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '31124'
+    url: http://www.gutenberg.org/2009/agents/31124
+    wikipedia: http://it.wikipedia.org/wiki/Federico_De_Roberto
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2012-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39289'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Italian'
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+tableOfContents: Prefazione -- La muta comunione -- L'indiscreta domanda -- L'omonimo
+  -- La veglia -- Il sospetto -- La certezza -- Un'intenzione della Duffredi -- L'indovinello
+  -- Fino a morirne -- Omissioni -- Uno scrupolo di Don Giovanni -- Un giglio -- La
+  venere di Siracusa -- L'estro -- Anacronismo -- Il gran rapporto -- L'affare dei
+  quattrini -- Un'equazione morale -- Le cicatrici -- La Toscanina -- Lo scandalo
+  -- La jettatrice -- La consolatrice -- Le prove -- Dibattimento -- Ironie -- L'assurdo
+  -- Lettere di commiato -- L'amor supremo -- "Nessun maggior dolore..."
+title: Gli amori
+url: http://www.gutenberg.org/ebooks/39289
